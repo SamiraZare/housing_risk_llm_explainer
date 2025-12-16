@@ -131,23 +131,6 @@ Replace the stub in `explain_llm.py` with real API calls.
 
 ---
 
-## 🎯 Intended For
-
-- Portfolio projects  
-- Résumé experience  
-- AI job applications  
-- Interview discussions  
-
----
-
-## 📄 Résumé-Ready Bullet Points
-
-- Built a hybrid Machine Learning + LLM system that predicts housing prices and rent-risk using NumPy-based linear and logistic regression, then generates natural-language explanations through a generative AI layer.
-- Implemented gradient descent, data normalization, and model evaluation from scratch in Python and visualized learning dynamics through cost curves, classification boundaries, and prediction-vs-ground-truth plots.
-- Designed modular ML pipelines and prompt-engineering interfaces to integrate tabular data predictions with LLM reasoning, demonstrating practical experience with explainable AI and AI product development workflows.
-
----
-
 ## 🧰 Tech Stack
 - **Python**
 - **NumPy, Pandas, Matplotlib**
