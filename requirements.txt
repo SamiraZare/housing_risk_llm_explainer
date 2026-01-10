@@ -1,0 +1,14 @@
+
+---
+
+## 3. `requirements.txt`
+
+You can keep this minimal:
+
+```text
+numpy
+pandas
+matplotlib
+jupyter
+scikit-learn
+
